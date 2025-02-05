@@ -1,16 +1,30 @@
-## Hi there 👋
+# Welcome!
 
-<!--
-**traik06/traik06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋 I am *Trai*, a Full Stack Software Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me [traik99@gmail.com](mailto:traik99@gmail.com)
+
+
+## Connect with me
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://coding-vet.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trai-kish-812127192/)
+
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=next,svelte,html,css,bootstrap,tailwind,apollo,redux)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=aws,docker,postgres,vite,prisma)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,bitbucket,vercel,vscode,jenkins,postman,redis,figma,linux)
